@@ -18,7 +18,7 @@ body {
 main section {
     background-color:  hsl(0, 0%, 100%);
     width: 600px;
-    height: 45vh;
+    height: 50vh;
     display: flex;
     flex-direction: row;
     border-radius: 1rem;
@@ -56,10 +56,10 @@ section img {
     font-size: 14px;
 }
 
-button .preco {
+.preco {
     display: flex;
     align-items: center;
-    margin-top: 1rem;
+    margin-top: 0.5rem;
 }
 
 .preco .atual {
